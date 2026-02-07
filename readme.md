@@ -47,10 +47,11 @@ A pixel-perfect recreation of the Cursor.com landing page using pure HTML and CS
 
 ## 📸 Screenshots
 
-![Cursor landging Page](img/screenshort/main.png)
+![Landing Page](./img/screenshort/main.png)
 
-![Cursor landging Page](img/screenshort/testimonial.png)
+![Testimonials](./img/screenshort/testimonial.png)
 
+![Brands](./img/screenshort/brand.png)
 
 ## 🔗 References
 
