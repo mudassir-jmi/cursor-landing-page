@@ -43,9 +43,13 @@ A pixel-perfect recreation of the Cursor.com landing page using pure HTML and CS
 1. Push to a public GitHub repository
 2. Go to Settings > Pages
 3. Select main branch as source
-4. live at: ``
+4. live at: `https://mudassir-jmi.github.io/cursor-landing-page/`
 
 ## 📸 Screenshots
+
+![Cursor landging Page](img/screenshort/main.png)
+
+![Cursor landging Page](img/screenshort/testimonial.png)
 
 
 ## 🔗 References
